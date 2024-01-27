@@ -1,0 +1,579 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    background-color: rgb(245, 243, 243);
+    padding: 10px;
+
+}
+
+.row {
+    padding: 10px;
+    padding: 10px;
+    margin: 10px;
+    width: 100%;
+}
+
+.box {
+    /* margin-left: auto; */
+    text-align: right;
+    margin-right: 60px;
+    /
+    /* position: static; */
+
+    /* right: 50px; */
+    /* top: 10px; */
+    /* padding: 10px
+
+}
+
+/*  */
+    color: blue;
+    text-decoration: none;
+    border: none;
+    margin: 0px 0px 0px 10px;
+
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 50px;
+    width: 50%;
+}
+
+.h4a {
+    margin: 0px 50px 0px 0px;
+}
+
+.row2 {
+    width: 100%;
+    margin: 60px 0px;
+    padding: 0px;
+}
+
+.div1,
+.div2,
+.div3,
+.div4,
+.div5,
+.div6,
+.div7 {
+    padding: 0pxpx;
+    /* background-color:white; */
+    display: inline-block;
+    margin: 0px 10px 0px 20px;
+
+}
+
+img {
+    width: 140px;
+}
+
+.div2 {
+    /* height: 100px; */
+    /* margin-bottom: 5px; */
+}
+
+h4 {
+    margin: 0px 0px 0px 50px;
+}
+
+
+.ibox {
+    display: flex;
+    padding: 10px 0px 50px;
+
+}
+
+.iphone {
+    background-color: black;
+    color: white;
+    width: 400px;
+    height: 500px;
+    margin-left: 10px;
+    border-radius: 20px;
+    /* display: flex; */
+    transition: all .0.5s;
+    /* padding: 10px; */
+    /* position: relative; */
+}
+
+/* .iphone:hover{
+    box-shadow: 0px 2px 4px 12px rgba(0,0,0,.08);
+} */
+
+.iphone2 {
+    background-color: white;
+
+    color: black;
+    width: 400px;
+    height: 500px;
+    border-radius: 20px;
+    margin: 0px 10px;
+    /* display: inline-flex; */
+}
+
+.iphone3 {
+    background-color: white;
+    width: 400px;
+    height: 500px;
+    border-radius: 20px;
+    /* margin: 0px 40p 0px 0px ; */
+}
+
+.iph1 {
+    width: 400px;
+    padding: 0px;
+    margin-top: 50px;
+    /* margin: 30px; */
+}
+
+.iph2 {
+    width: 400px;
+    /* margin:0px 0px 0px 0px; */
+    border-radius: 20px;
+
+}
+
+.iph3 {
+    width: 400px;
+
+
+}
+
+
+.h42a {
+    margin: 10px 0px;
+    padding: 30px 0px 0px 30px;
+    font-family: sans-serif;
+}
+
+.h42b {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0px 0px 0px 30px;
+}
+
+.h42c {
+    color: white;
+    padding: 0px 0px 0px 30px;
+}
+
+.h42e,
+.h42f {
+    padding: 0px 0px 0px 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h42d {
+    padding: 20px 0px 0px 30px;
+    margin: 10px 0px;
+    font-family: sans-serif;
+    color: gray;
+}
+
+.h51,
+.h52,
+.h53 {
+    margin: 10px 0px;
+
+}
+
+.h51 {
+    color: gray;
+    font-family: sans-serif;
+    padding: 10px 30px;
+
+}
+
+.h52 {
+    color: black;
+    font-family: sans-serif;
+    padding: 0px 30px;
+
+}
+
+.h53 {
+    color: black;
+    font-family: sans-serif;
+    padding: 0px 30px;
+}
+
+.h54 {
+    color: grey;
+    font-family: sans-serif;
+    padding: 0px 30px;
+    margin: 0px 0px 30px 0px;
+}
+
+.helpwhere {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: grey;
+    margin-left: 30px;
+
+
+}
+
+.helpwhere1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: grey;
+    margin: 70px 30px 20px;
+
+
+}
+
+.port1 {
+    width: 450px;
+    height: 500px;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+
+
+
+}
+
+.man {
+    width: 450px;
+    padding-top: 40px;
+    border-radius: 20px;
+
+
+}
+
+.man2 {
+    width: 400px;
+    padding-top: 20px;
+    margin-top: 40px;
+    border-radius: 20px
+}
+
+.sp1,
+.sp2 {
+    padding-bottom: 20px;
+    color: grey;
+    font-family: sans-serif;
+    /* width: 20px; */
+    margin-left: 20px;
+
+}
+
+.sp1 {
+    font-size: small;
+}
+
+.sp1a {
+    font-size: small;
+    margin-left: 40px;
+    padding-bottom: 20px;
+    color: grey;
+    font-family: sans-serif;
+}
+
+.sp2 {
+    color: black;
+    font-family: sans-serif;
+    margin-left: 20px;
+
+
+}
+
+.sp2a {
+    /* margin-bottom:10px ; */
+    font-family: sans-serif;
+    width: 320px;
+    margin-left: 40px;
+}
+
+.port2 {
+    width: 400px;
+    height: 530px;
+    background-color: rgb(30, 29, 29);
+    color: white;
+    border-radius: 20px;
+    padding-top: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+
+}
+
+.port3 {
+    width: 400px;
+    height: 530px;
+    background-image: linear-gradient(rgb(255, 208, 0), orange);
+    color: white;
+    border-radius: 20px;
+    padding-top: 30px;
+    margin-top: 20px;
+    margin-left: 10px;
+
+
+
+}
+
+.man3 {
+    width: 400px;
+    padding-top: 20px;
+    margin-top: 65px;
+    border-radius: 20px;
+
+}
+
+.ibox2 {
+    display: flex;
+    padding: 10x 0px;
+    margin-bottom: 60px;
+
+}
+
+.ibox3 {
+    display: flex;
+    padding: 10px 0px;
+
+
+}
+
+.ibox4 {
+    display: flex;
+    padding: 10px 0px;
+    border-radius: 20px;
+}
+
+.smallbox1 {
+    width: 300px;
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 10px;
+
+}
+
+.icontext {
+    width: 170px;
+    font-family: sans-serif;
+
+}
+
+.icon {
+    background-color: red;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.styleicon {
+    margin-top: 20px;
+    font-family: sans-serif;
+    width: 250px;
+    /* font-size: medium; */
+
+}
+
+.icontext2 {
+    width: 280px;
+    font-family: sans-serif;
+    font-size: 23px;
+
+}
+
+.icontext3 {
+    width: 270px;
+    font-family: sans-serif;
+    font-size: 23px;
+
+}
+
+.styletext {
+    width: 170px;
+    font-family: sans-serif;
+    color: rgb(0, 60, 255);
+}
+
+.styletext1 {
+
+    width: 280px;
+    font-family: sans-serif;
+    font-size: 23px;
+    color: rgb(247, 10, 247);
+
+}
+
+.styletext3 {
+    width: 270px;
+    font-family: sans-serif;
+    font-size: 23px;
+    color: rgb(124, 203, 6);
+}
+
+.longbox2,
+.longbox1 {
+    background-color: white;
+    width: 400px;
+    margin: 10px;
+    border-radius: 20px;
+
+}
+
+.longbox3 {
+    background-color: white;
+    width: 400px;
+    margin: 10px;
+    border-radius: 20px;
+
+}
+
+.longboxtext1 {
+    margin: 60px 0px 20px 40px;
+    font-family: sans-serif;
+
+
+}
+
+.longboxtext {
+    margin-left: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+
+.iwatch {
+    width: 400px;
+    margin-top: 90px;
+}
+
+.watchstreep {
+    width: 180px;
+    margin: 110px 70px 70px 70px;
+    padding-bottom: 30px;
+
+}
+
+.new {
+    color: red;
+    margin: 10px 40px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.longboxtext2,
+.longboxtext3 {
+    margin: 0px 40px;
+    font-family: sans-serif;
+    font-size: medium;
+    width: 230px;
+}
+
+.longboxtext3 {
+    margin-top: 50px;
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pen {
+
+    width: 180px;
+    margin: 110px 70px 40px 70px;
+    padding-bottom: 30px;
+
+}
+
+.pencil,
+.mrp {
+    margin: 0px 40px;
+    font-family: sans-serif;
+    font-size: medium;
+    width: 230px;
+}
+
+.mrp {
+    width: 260px;
+    margin-top: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+
+.bloo {
+    width: 390px;
+    border-radius: 20px;
+
+}
+
+.ear {
+    width: 250px;
+    margin: 20px 0px 0px 30px ;
+}
+
+.ibloo {
+    width: 250px;
+}
+
+.igbox2,
+.igbox3 {
+    background-color: white;
+    width: 300px;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+
+
+}
+
+.igbox1 {
+    padding-top: 60px;
+    width: 400px;
+    background-color: white;
+    border-radius: 20px;
+    margin: 10px;
+
+}
+
+.igbox2 {
+    background-color: white;
+    width: 350px;
+
+}
+
+.blootext,
+.blootext2 {
+    font-family: sans-serif;
+    margin: 0px 30px 10px;
+}
+
+.blootext2 {
+    color: grey;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.styleair {
+    font-size: small;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 60px 30px 0px;
+}
+
+.textair {
+    font-family: sans-serif;
+    margin: 0px 30px;
+    font-size: 20px;
+    width: 290px;
+}
+
+.styleair2 {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 40px 30px 0px;
+    width: 300px;
+    color: grey;
+    font-size: 17px;
+}
+.p{
+    font-size: 15px;
+    color: grey;
+    margin: 20px;
+}
